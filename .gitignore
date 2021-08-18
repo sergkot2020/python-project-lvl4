@@ -1,0 +1,11 @@
+.idea
+/dist
+__pycache__/
+test.py
+spam.py
+/coverage.xml
+/.coverage
+/www-school-unn-ru_files/
+/www-school-unn-ru.html
+/venv/
+/task_manager/.env

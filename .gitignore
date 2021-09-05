@@ -9,3 +9,4 @@ spam.py
 /www-school-unn-ru.html
 /venv/
 /task_manager/.env
+/task_manager/db.sqlite3

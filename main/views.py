@@ -1,6 +1,5 @@
 from django.shortcuts import render
 from django.utils.translation import gettext
-from main import const
 
 
 def main_view(request):
